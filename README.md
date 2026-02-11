@@ -48,7 +48,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 Include the screenshot of your admin page.
-![alt text](<Screenshot (643).png>)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
