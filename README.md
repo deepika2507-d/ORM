@@ -25,7 +25,7 @@ Execute Django admin and create details for 10 books
 ## PROGRAM
 
 
-
+restrewt
 ## OUTPUT
 
 Include the screenshot of your admin page.
