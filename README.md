@@ -23,6 +23,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
+```
 admin.py
 
 from django.contrib import admin
@@ -45,6 +46,7 @@ class Employee(models.Model):
 
 class EmployeeAdmin(admin.ModelAdmin): 
         list_display=( 'OrderID','UserID','OrderDate','ItemName','OrderQty','UnitPrice','TotalAmount','DeliveryAddress')
+        ```
 ## OUTPUT
 
 Include the screenshot of your admin page.
