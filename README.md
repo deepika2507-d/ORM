@@ -10,6 +10,7 @@ To develop a Django application to manage an online food delivery platform like 
 <img width="402" height="387" alt="Screenshot 2026-02-24 083748" src="https://github.com/user-attachments/assets/6f9070d7-c9a6-41a7-a83c-0e5523bc36e7" />
 
 
+
 ## DESIGN STEPS
 
 ### STEP 1:
